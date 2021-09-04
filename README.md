@@ -13,6 +13,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ![Goseale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goseale&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
